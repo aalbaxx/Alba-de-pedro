@@ -3,5 +3,6 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/aalbaxx/Alba-de-pedro.git
+git remote add origin ndjd1232 https://github.com/aalbaxx/Alba-de-pedro.git
 git push -u origin main
+cambio 2
